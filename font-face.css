@@ -1,0 +1,35 @@
+/* Droid Fonts (http://code.google.com/android)
+ * Copyright (c) 2005-2008, The Android Open Source Project
+ * Licensed under the Apache License, Version 2.0 */
+@font-face {
+  font-family: 'Droid Sans';
+  src: url('droid/DroidSans.ttf'); }
+
+@font-face {
+  font-family: 'Droid Sans';
+  src: url('droid/DroidSans-Bold.ttf');
+  font-weight: bold; }
+
+@font-face {
+  font-family: 'Droid Serif';
+  src: url('droid/DroidSerif-Regular.ttf'); }
+
+@font-face {
+  font-family: 'Droid Serif';
+  src: url('droid/DroidSerif-Italic.ttf');
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Droid Serif';
+  src: url('droid/DroidSerif-Bold.ttf');
+  font-weight: bold; }
+
+@font-face {
+  font-family: 'Droid Serif';
+  src: url('droid/DroidSerif-BoldItalic.ttf');
+  font-weight: bold;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Droid Sans Mono';
+  src: url('droid/DroidSansMono.ttf'); }
